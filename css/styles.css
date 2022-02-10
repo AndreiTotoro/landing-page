@@ -118,6 +118,8 @@ main{
     font-size: 12px;
 }
 
+/* Quote */
+
 .quote{
     background-color: #E5E7EB;
     padding: 90px;
@@ -137,4 +139,41 @@ main{
 .quoteauthor{
     color: #1F2937;
     font-weight: 900;
+}
+
+/* Call to action */
+
+.whitesection{
+    padding: 70px;
+}
+
+.innerblue{
+    background-color: #3882F6;
+    max-width: 1000px;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: space-around;
+    color: #F9FAF8;
+    border-radius: 8px;
+}
+
+.ctatitle{
+    font-size: 21px;
+    font-weight: 600;
+}
+
+.ctapara{
+    font-size: 14px;
+}
+
+.ctabutton2{
+    border: none;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    border-radius: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
 }

@@ -15,8 +15,10 @@ body{
 /* Header */
 header{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+    max-width: 1000px;
+    margin: auto;
 }
 
 .logo{
@@ -36,8 +38,10 @@ header{
 main{
     padding-top: 70px;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     gap: 70px;
+    max-width: 1000px;
+    margin: auto;
 }
 
 
@@ -71,3 +75,5 @@ main{
     width: 100px;
     padding: 7px;
 }
+
+

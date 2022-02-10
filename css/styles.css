@@ -177,3 +177,15 @@ main{
     padding-left: 15px;
     padding-right: 15px;
 }
+
+
+/* Footer */
+footer{
+    background-color: #1F2937;
+}
+
+footer p{
+    color: #E5E7EB;
+    text-align: center;
+    padding: 30px;
+}

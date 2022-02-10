@@ -117,3 +117,24 @@ main{
     color: #1F2937;
     font-size: 12px;
 }
+
+.quote{
+    background-color: #E5E7EB;
+    padding: 90px;
+    
+}
+
+.quotecard{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    max-width: 800px;
+    margin: auto;
+    font-size: 26px;
+    font-weight: 300;
+}
+
+.quoteauthor{
+    color: #1F2937;
+    font-weight: 900;
+}
